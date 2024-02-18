@@ -1,6 +1,6 @@
-#include "entro-hash.h"
+#include "quakehash.h"
 
-uint32_t entro_hash(const char *input, uint32_t entropy) {
+uint32_t quakehash(const char *input, uint32_t entropy) {
   unsigned long i = 0;
 
   while (input[i] != 0) {
