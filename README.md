@@ -2,6 +2,8 @@
 ![QuakeHash Logo](https://repository-images.githubusercontent.com/739806114/8f77dd5a-97dc-4643-8dac-a05da569ee6e)
 
 ## Description
+QuakeHash is a 32-bit, non-cryptographic hashing algorithm.
+
 Read [this article](https://medium.com/@wilparsons/quakehash-is-a-new-32-bit-hashing-algorithm-with-low-collisions-and-good-bit-distribution-b2ad6aedeb09) for an in-depth explanation.
 
 ## Usage
