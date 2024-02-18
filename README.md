@@ -1,5 +1,5 @@
 # QuakeHash
-![QuakeHash Logo](https://repository-images.githubusercontent.com/739806114/8f77dd5a-97dc-4643-8dac-a05da569ee6e)
+![QuakeHash Logo](https://repository-images.githubusercontent.com/739806114/84c6ab87-574c-404d-a0a7-0451de10facf)
 
 ## Description
 QuakeHash is a 32-bit, non-cryptographic hashing algorithm.
