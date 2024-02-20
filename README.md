@@ -36,4 +36,4 @@ It returns the 32-bit unsigned integer hash digest result.
 ## Support
 QuakeHash was designed and developed by [Wil Parsons](https://wilparsons.com/).
 
-I'm available for freelance work to extend, modifify or implement QuakeHash and other algorithms.
+I'm available for freelance work to extend, implement or modify QuakeHash and other algorithms.
