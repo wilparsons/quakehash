@@ -31,6 +31,8 @@ This is the hashing function that accepts the 2 following arguments.
 
 `entropy` is the 32-bit unsigned integer seed initialized with `1111111111`.
 
+The return value data type is `uint32_t`.
+
 It returns the 32-bit unsigned integer hash digest result.
 
 ## Support
