@@ -36,6 +36,6 @@ The return value data type is `uint32_t`.
 It returns the 32-bit unsigned integer hash digest result.
 
 ## Support
-QuakeHash was designed and developed by [Wil Parsons](https://wilparsons.com/).
+QuakeHash was designed and developed by [Wil Parsons](https://wilparsons.github.io).
 
 I'm available for freelance work to extend, implement or modify QuakeHash and other algorithms.
