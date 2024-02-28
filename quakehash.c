@@ -8,7 +8,6 @@ uint32_t quakehash(const char *input, uint32_t entropy) {
     entropy += (entropy + 111111111) << 9;
     entropy += entropy << 5;
     entropy += ((entropy << 3) + entropy) << 24;
-    entropy += ((entropy << 3) + entropy) << 16;
     entropy ^= entropy >> 16;
     i++;
   }
