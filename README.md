@@ -34,8 +34,3 @@ This is the hashing function that accepts the 2 following arguments.
 The return value data type is `uint32_t`.
 
 It returns the 32-bit unsigned integer hash digest result.
-
-## Support
-QuakeHash was designed and developed by [Wil Parsons](https://github.com/wilparsons).
-
-I'm available for freelance work to extend, implement or modify QuakeHash and other algorithms.
